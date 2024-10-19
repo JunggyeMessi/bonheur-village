@@ -1,7 +1,7 @@
 import Image from "next/image";
 import classes from "./home.module.css";
 import bg from "../assets/images/bg.png";
-import { blackHanSans, kimJungChulMyungjo, sCoreDream } from "./layout";
+import { blackHanSans, kimJungChulMyungjo, sCoreDream } from "./font";
 import ExteriorSlider from "@/components/ExteriorSlider";
 import InteriorSlider from "@/components/InteriorSlider";
 
