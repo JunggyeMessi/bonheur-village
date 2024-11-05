@@ -138,7 +138,7 @@ export default function Home() {
               </div>
             </div>
             <div className={`${kimJungChulMyungjo.className} ${classes.title}`}>
-              6억대 유럽풍 단독주택
+              꿈꾸던 유럽풍 동화마을 단독주택
             </div>
           </div>
           <div
@@ -151,16 +151,16 @@ export default function Home() {
               여의도까지 <strong>40분</strong>
             </div>
             <div className={classes.text}>
-              넓은 세대별 <strong>마당 공간</strong>
-            </div>
-            <div className={classes.text}>
-              <strong>10분內</strong> 학교 위치
+              세대별 넓은 <strong>마당 공간</strong>
             </div>
             <div className={classes.text}>
               도시 인접 <strong>조용한 단독주택</strong>
             </div>
             <div className={classes.text}>
-              <strong>층간소음 해결</strong>
+              <strong>100평</strong> 타운하우스
+            </div>
+            <div className={classes.text}>
+              자연과 함꼐하는 <strong>김포 보네르빌리지</strong>
             </div>
           </div>
         </div>
@@ -299,7 +299,10 @@ export default function Home() {
             </defs>
           </svg>
           <div className={classes.container}>
-            <div className={classes.text}>대표문의: 010-3220-2091</div>
+            <div className={classes.text}>대표문의: 010-5332-5120</div>
+            <div className={classes.text}>&nbsp;</div>
+            <div className={classes.text}>주식회사 감추인보화</div>
+            <div className={classes.text}>사업자 등록번호: 378-81-01099</div>
             <div className={classes.text}>홈페이지: hiddentreasure.co.kr</div>
           </div>
         </div>

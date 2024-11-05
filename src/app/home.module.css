@@ -119,6 +119,7 @@
   font-weight: 700;
   line-height: normal;
   word-break: keep-all;
+  text-wrap: balance;
 }
 .section:nth-child(2) > .contentContainer {
   width: 100%;
@@ -137,6 +138,8 @@
   padding: 0.8rem 0;
   border-radius: var(--r-1, 8px);
   background: #edf8f8;
+  text-wrap: balance;
+  word-break: keep-all;
 }
 .section:nth-child(2) > .contentContainer > .text > strong {
   color: #022e2d;
