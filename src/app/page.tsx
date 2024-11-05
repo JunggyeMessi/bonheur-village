@@ -299,7 +299,7 @@ export default function Home() {
             </defs>
           </svg>
           <div className={classes.container}>
-            <div className={classes.text}>대표문의: 010-3220-2091</div>
+            <div className={classes.text}>대표문의: 010-5332-5120</div>
             <div className={classes.text}>홈페이지: hiddentreasure.co.kr</div>
           </div>
         </div>
