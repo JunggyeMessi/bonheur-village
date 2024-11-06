@@ -160,7 +160,7 @@ export default function Home() {
               <strong>100평</strong> 타운하우스
             </div>
             <div className={classes.text}>
-              자연과 함꼐하는 <strong>김포 보네르빌리지</strong>
+              자연과 함께하는 <strong>김포 보네르빌리지</strong>
             </div>
           </div>
         </div>
